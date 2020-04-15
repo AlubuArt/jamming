@@ -5,6 +5,7 @@ import SearchResults from '../SearchResults/SearchResults';
 import PlayList from '../PlayList/PlayList';
 import Spotify from '../../util/Spotify';
 
+//@Autor Jacob Christensen
 
 class App extends React.Component {
 
